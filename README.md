@@ -1,4 +1,4 @@
-### **🚀 Responsive Tailwind CSS Landing Page**  
+# **🚀 Responsive Tailwind CSS Landing Page**  
 
 Welcome to this **modern, fully responsive landing page** built with **Tailwind CSS** and **JavaScript**! 🎨✨ Designed for speed, flexibility, and a seamless user experience, this project is perfect for anyone looking to build a sleek, high-performance webpage with minimal effort.  
 
