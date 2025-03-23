@@ -1,9 +1,8 @@
 # **🚀 Responsive Tailwind CSS Landing Page**  
 
 Welcome to this **modern, fully responsive landing page** built with **Tailwind CSS** and **JavaScript**! 🎨✨ Designed for speed, flexibility, and a seamless user experience, this project is perfect for anyone looking to build a sleek, high-performance webpage with minimal effort. 
-
-<br>
 ---
+<br>
 <br>
 
 ## **🎯 Features That Make This Stand Out**  
@@ -14,9 +13,8 @@ Welcome to this **modern, fully responsive landing page** built with **Tailwind 
 ✅ **Back to Top Button** – A handy **scroll-to-top arrow ⬆️** that appears when you scroll down.  
 ✅ **Smooth Animations** – Subtle **hover effects 🎭**, smooth scrolling, and an animated bouncing arrow for a lively feel.  
 ✅ **Easy to Customize** – Built with **Tailwind CSS**, making it **highly customizable** and developer-friendly. 🔧  
-
-<br>
 ---
+<br>
 <br>
 
 ## **🛠 Technologies Used**  
@@ -24,9 +22,10 @@ Welcome to this **modern, fully responsive landing page** built with **Tailwind 
 🔹 **Tailwind CSS** – For rapid styling and a fully responsive layout.  
 🔹 **JavaScript** – To handle interactive elements like the **mobile menu** and **dark mode toggle**.  
 🔹 **HTML** – Clean, well-structured markup for easy readability.  
-<br>
 ---
 <br>
+<br>
+
 ## **🚀 Getting Started**  
 
 Follow these steps to run the project locally:  
@@ -42,8 +41,8 @@ cd your-repo
 3️⃣ **Open the `index.html` file in your browser**  
 - No setup required – just open the file and you're good to go! 🎉
 
-<br>
 ---
+<br>
 <br>
 
 ## **🌟 Final Thoughts**  
